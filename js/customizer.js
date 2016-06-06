@@ -40,3 +40,5 @@
 		} );
 	} );
 } )( jQuery );
+let $li = $('.menu ul ').find('li')
+console.log($li)
